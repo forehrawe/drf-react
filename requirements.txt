@@ -2,3 +2,5 @@ django
 djangorestframework
 djangorestframework_simplejwt
 django-cors-headers
+django-stubs
+djangorestframework-stubs
