@@ -1,5 +1,5 @@
-import Get from "./components/get"
-import Post from "./components/post";
+import Get from "./components/get/get"
+import Post from "./components/post/post";
 
 function App() {
     return (
